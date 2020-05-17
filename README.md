@@ -1,3 +1,3 @@
-# fosseventspage
+# foss feedback page
 
-All FOSS EVENTS GO THROUGHT THIS EVENT PAGE SITE 
+this page is the redirect of foss nsbm feedback form.
